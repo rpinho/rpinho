@@ -12,7 +12,7 @@ Data engineer with a PhD in computational biology. I use AI agents, mostly Claud
 
 ## Math
 
-- [math-certificates](https://github.com/rpinho/math-certificates): index of explicit, independently checked bounds on open optimization constants. Each certificate has its own repo and checkers.
+- [math-certificates](https://github.com/rpinho/math-certificates): index of explicit, exactly checked bounds on open optimization constants. Each entry states its verification level: AI review only, an independent checker, or Lean. Each certificate has its own repo and checkers.
 
 ## Astronomy
 
@@ -24,6 +24,7 @@ Data engineer with a PhD in computational biology. I use AI agents, mostly Claud
 
 ## Agents and tools
 
+- [ai-research-tools](https://github.com/rpinho/ai-research-tools): agent-first tools for running AI agents on open research problems and competitions: a research harness with checks against overfitting, stalled work and unapproved outreach, plus a model leaderboard. Point Claude Code or Codex at it to install.
 - [agent-kb](https://github.com/rpinho/agent-kb): a file-based knowledge base that agents maintain, with its rules enforced by mechanisms instead of prose.
 - [sentinel](https://github.com/rpinho/sentinel): two-stage incident detector for open-source repos, built with Codex.
 - [prediction-market-mm](https://github.com/rpinho/prediction-market-mm): a passive market maker for the Orderbook Prediction Market Challenge, plus the harness used to tune it.
