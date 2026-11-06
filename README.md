@@ -12,13 +12,13 @@ Data engineer with a PhD in computational biology. I use AI agents, mostly Claud
 
 ## Math
 
-- [math-certificates](https://github.com/rpinho/math-certificates): index of explicit, exactly checked bounds on open optimization constants. Each entry states its verification level: AI review only, an independent checker, or Lean. Each certificate has its own repo and checkers.
-- Six of these are merged into Terence Tao's [optimization-constants table](https://github.com/teorth/optimizationproblems): C86 ≤ 1.8117251, C82 < 0.2534449, and C68, C42, C44 and C70. [Sixteen more are open](https://github.com/teorth/optimizationproblems/pulls?q=is%3Apr+author%3Arpinho), several of them improving the merged ones.
+- [math-certificates](https://github.com/rpinho/math-certificates): index of explicit, exactly checked bounds on open optimization constants. Each entry states its verification level: AI review only, an independent checker, or Lean. Each certificate has its own folder and checkers.
+- Six of these are merged into Terence Tao's [optimization-constants table](https://github.com/teorth/optimizationproblems): C86 ≤ 1.8117251, C82 < 0.2534449, and C68, C42, C44 and C70. [Sixteen more pull requests are open](https://github.com/teorth/optimizationproblems/pulls?q=is%3Apr+author%3Arpinho), several of them improving the merged ones.
 - Public postings on Hexagon: [C86](https://hexagonmath.org/2610.00425), [C82](https://hexagonmath.org/2610.00426) and [Korenblum's c2](https://hexagonmath.org/2610.00399), plus later bounds for [C44](https://hexagonmath.org/2610.00694), [C86](https://hexagonmath.org/2610.00695) and [C68](https://hexagonmath.org/2610.00696).
 
 ## Astronomy
 
-- [planet-hunt](https://github.com/rpinho/planet-hunt): AI agents searching NASA TESS data for small planets. Four candidate-planet research notes are under review at RNAAS.
+- [planet-hunt](https://github.com/rpinho/planet-hunt): AI agents searching NASA TESS data for small planets. Four candidate-planet research notes submitted to RNAAS, all being corrected after a re-audit; one correction is out.
 
 ## Learning
 
